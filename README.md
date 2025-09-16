@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Your Creative Data Scientist | Turning data into stories & AI into solutions ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=giftkalu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=giftkalu&label=Profile%20Views&color=blueviolet&style=flat" alt="Gift Kalu"/>
 </p>
 
 ---
