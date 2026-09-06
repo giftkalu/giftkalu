@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 ---
 
 ## 💡 About Me  
-- 🎓 Computer Science @ Covenant University  
-- 📊 Passionate about **Data, AI, and storytelling**  
+- 🎓 First class Computer Science @ Covenant University  
+- 📊 Passionate about **Data, AI, and storytelling**
+- 🥉 3rd place in Kora Hackathon 2026
+- BigTheta Scholarship recipient & Fellow
 - 🚀 Currently building: **Kanread – a smart reading assistant**  
 - 🌱 Learning **LLMs**  
 - 🌍 Dream: Improve the quality of living with data and AI
